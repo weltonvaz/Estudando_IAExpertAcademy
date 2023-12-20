@@ -1,0 +1,1 @@
+Nessa videoaula você será apresentado a noções sobre como realizar análise exploratória utilizando uma base de dados que contém o número de casos de COVID-19 por país. Você aprenderá a gerar mapas para visualizar as infecções por país. A aula faz parte do conteúdo que está disponível para assinantes IA Expert Academy. 
